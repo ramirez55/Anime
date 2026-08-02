@@ -3,3 +3,4 @@ requests
 APScheduler
 SQLAlchemy
 psycopg2-binary
+pytz
