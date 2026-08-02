@@ -2,7 +2,7 @@
 
 # --- Configuración de Telegram ---
 # Obtén tu token de BotFather en Telegram (envía /newbot a @BotFather)
-TELEGRAM_BOT_TOKEN = "TU_TOKEN_HTTP_API_AQUI"
+TELEGRAM_BOT_TOKEN = "8715145205:AAEyoe5MNsYDNixfCLDJabHrMrfdDkYMVak"
 
 # Tu ID de usuario de Telegram. Esto es necesario para los comandos de administrador.
 # Puedes obtener tu ID enviando /id a @userinfobot o @getidsbot en Telegram.
